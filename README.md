@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Công cụ Tra Giá Token từ Contract Address
 
 Đây là một script Python cho phép bạn tra cứu giá token trực tiếp thông qua contract address bằng API của [DexScreener](https://dexscreener.com/). Công cụ này hỗ trợ nhiều blockchain phổ biến như Ethereum, BSC (Binance Smart Chain), và Solana.
@@ -70,3 +71,6 @@ Nhập 0 để dừng/ 1 để tiếp tục:
 ## License
 
 MIT License - Tự do sử dụng và chỉnh sửa.
+=======
+# QuickTokenPrice
+>>>>>>> ceccc042186c7e0aa7e80faf8ec2a9666e4e0c71
